@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about :=  ANYTHING
 - 📫 How to reach me := https://instagram.com/deepali.sony
 - 😄 Pronouns :=  SHE/HER
-- ⚡ Fun fact  := I'm half finish
+- ⚡ Fun fact  := Explorer!
 
