@@ -6,7 +6,7 @@
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hi there ">
+<img src="https://www.dreamstime.com/hi-there-modern-calligraphy-hand-drawn-marker-pen-lettering-image130638472" alt="Hi there ">
 
 <p align="center"> 
   
