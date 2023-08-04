@@ -5,11 +5,3 @@
 - ⚡ Fun fact  : Explorer
 
 # Hey there :wave:
-
-<img src="https://www.dreamstime.com/hi-there-modern-calligraphy-hand-drawn-marker-pen-lettering-image130638472" alt="Hi there ">
-
-<p align="center"> 
-  
-</p>
-
-
