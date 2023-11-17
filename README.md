@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DEEPALI</h1>
-<h3 align="center">A AI ML Student from India</h3>
+<h3 align="center">An AI ML Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepalikumari&label=Profile%20views&color=0e75b6&style=flat" alt="deepalikumari" /> </p>
 
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepali kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kumari" height="30" width="40" /></a>
+<a href="ww.linkedin.com/in/deepali-kumari30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali kumari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@deepalikumari121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deepalikumari121" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/deepalikumari121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/deepalikumari121" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/deepalikumari30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepalikumari30" height="30" width="40" /></a>
 </p>
 
