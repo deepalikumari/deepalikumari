@@ -1,46 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DEEPALI - AI ML Student</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #3498db;
-            padding: 1rem;
-            text-align: center;
-            color: #fff;
-        }
-
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-        }
-
-        h3 {
-            font-size: 1.5rem;
-            margin-top: 0;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Hi 👋, I'm DEEPALI</h1>
-        <h3>An Artificial Intelligence and Machine Learning Student from India</h3>
-    </header>
-    <!-- Add more content as needed -->
-</body>
-</html>
-
-
+<h1 align="center">👋 Hello there! I'm DEEPALI</h1>
+<h3 align="center">Passionate about AI and Machine Learning | Based in India</h3>
 
 - 📫 How to reach me **deepali_kumari@srmap.edu.in**
 
