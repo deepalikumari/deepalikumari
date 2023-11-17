@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! I'm DEEPALI</h1>
-<h3 align="center">Passionate about AI and Machine Learning | Based in India</h3>
+<h3 align="center">Passionate about Artificial Intelligence & Machine Learning | Based in India</h3>
 
 - 📫 How to reach me **deepali_kumari@srmap.edu.in**
 
