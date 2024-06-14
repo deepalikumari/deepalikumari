@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello there! I'm Deepali</h1>
 <h3 align="center">Passionate about Artificial Intelligence & Machine Learning | Based in India</h3>
 <div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <h2>CONTRIBUTIONS</h2>
+  <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-- 📫 How to reach me: **deepali_kumari@srmap.edu.in**
+  📫 How to reach me: **deepali_kumari@srmap.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
